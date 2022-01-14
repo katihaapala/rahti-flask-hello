@@ -14,3 +14,4 @@ Expose the application at "http://course-flask-demo.rahtiapp.fi"
 oc expose svc/course-flask-demo --hostname="course-flask-demo.rahtiapp.fi"
 ```
 
+## Added a line.
